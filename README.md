@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**dhaneshsabane/dhaneshsabane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Dhanesh Sabane and I'm a techie with a knack for football and music.
 
-Here are some ideas to get you started:
+Quick Fire: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on **anything that's for the greater good of the human race**.
+- 🤔 I’m looking for help with **being a consistent Open Source Contributor**.
+- 💬 Ask me about **anything!**
+- 📫 How to reach me: Contact details available on my website, linked below.
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I'm the world's best procrastinator!
+
+Learn more about me by [visiting my website](https://dhanesh.sabane.in/).
